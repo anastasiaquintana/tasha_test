@@ -12,3 +12,6 @@ test repo for git and github lesson
 
 
 Thank you for the collaboration. -Yulissa
+
+## How to Create a Git Repository
+- Go to GitHub webiste, create new repository, name of rep. has to match R file name. 
