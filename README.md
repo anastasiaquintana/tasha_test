@@ -1,4 +1,4 @@
-# tasha_test
+# This is Tasha's test (conflict)
 test repo for git and github lesson
 
 ## purpose
