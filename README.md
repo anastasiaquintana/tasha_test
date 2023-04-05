@@ -1,4 +1,5 @@
-# This is Tasha's test
+# This is Tasha's test After conflict resolved!!!
+
 test repo for git and github lesson
 
 ## purpose
