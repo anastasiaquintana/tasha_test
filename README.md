@@ -9,3 +9,6 @@ test repo for git and github lesson
 ## creator
 
 - Tasha is a researcher at UCSB. More can be found at her [website](https://anastasiaquintana.com/). You can email her at [anastasiaquintana@ucsb.edu](mailto:anastasiaquintana@ucsb.edu).
+
+
+Thank you for the collaboration. -Yulissa
